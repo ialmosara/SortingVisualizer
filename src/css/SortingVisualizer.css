@@ -1,0 +1,12 @@
+.bar-holder {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.array-bar {
+    width: 0.5%;
+    background: pink;
+    display: inline-block;
+}
